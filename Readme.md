@@ -14,12 +14,13 @@
 
 <h2> Estrutura do Projeto </h2>
 <p>App </p> 
- -> <p>  GlobalStyle</p> 
- ->  <p>Header</p>  
- -> <p> Main</p>  
- ->  <p>Footer </p>
-  -> <p>  Router </p> -> <p> components pages </p> 
-                                -> <p> Carrinho</p>
-                                -> <p> Login</p>
-                                -> <p> Produtos</p>
+ <p>  GlobalStyle</p> 
+ <p>Header</p>  
+ <p> Main</p>  
+ <p>Footer </p>
+ <p>  Router </p> ->
+ <p> components pages </p> 
+ <p> Carrinho</p>
+ <p> Login</p>
+ <p> Produtos</p>
 
