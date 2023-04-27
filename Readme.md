@@ -13,14 +13,21 @@
 <p> A utilização do componente GlobalStyle no componente APP </p>
 
 <h2> Estrutura do Projeto </h2>
-<p>App </p> 
- <p>  GlobalStyle</p> 
- <p>Header</p>  
- <p> Main</p>  
- <p>Footer </p>
- <p>  Router </p> ->
- <p> components pages </p> 
- <p> Carrinho</p>
- <p> Login</p>
- <p> Produtos</p>
+ <div>
+  <p>App </p> 
+  <p>  GlobalStyle</p> 
+  <p>Header</p>  
+  <p> Main</p>  
+  <p>Footer </p>
+ </div>
+ <div>
+ <p>  Router </p>
+ <p>  Coordinator </p>
+ </div>
+ <div>
+  <p> components pages </p> 
+  <p> Carrinho</p>
+  <p> Login</p>
+  <p> Produtos</p>
+ </div>
 
